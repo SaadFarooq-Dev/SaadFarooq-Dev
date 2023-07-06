@@ -7,9 +7,9 @@
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&center=true&vCenter=true&width=1000&height=100&lines=I'm+Saad+Farooq.;I'm+a+Full+Stack+Web+Developer.;Welcome+to+my+Github+Profile!)](https://git.io/typing-svg)
 
-i am an open-source enthusiast and maintainer. i learned a lot from the open-source community and i love how collaboration and knowledge sharing happened through open-source.
-
   <img align="right" alt="GIF" src="https://github.com/SaadFarooq-Dev/SaadFarooq-Dev/blob/main/code.gif?raw=true" width="500" height="320" />
+  
+I am an open-source enthusiast and maintainer. i learned a lot from the open-source community and i love how collaboration and knowledge sharing happened through open-source.
   
 - 💼 any freelance work? do reach, [email](mailto:saadfarooq.info@gmail.com) :)
 - 💬 ask me about anything, i am happy to help;
