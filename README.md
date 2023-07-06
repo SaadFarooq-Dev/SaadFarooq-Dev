@@ -23,7 +23,7 @@ I am an open-source enthusiast and maintainer. i learned a lot from the open-sou
 
 ## 🛠️ Languages and Tools:
 
-[![My Skills](https://skillicons.dev/icons?i=js,ts,html,css,nodejs,expressjs,rails,react,reactnative,mongodb,postgresql,mysql,redis,tailwindcss)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,ts,html,css,nodejs,expressjs,ruby,rails,react,redux,graphql,supabase,rabbitmq,mongodb,postgresql,mysql,redis,git,gcp,aws,docker,firebase,tailwindcss)](https://skillicons.dev)
 
 
 ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
