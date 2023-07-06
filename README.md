@@ -1,6 +1,9 @@
 
 ### Hi there, I'm [Saad Farooq][website] <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/><br/><br/>
 [website]: https://www.saadfarooq.dev/
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/saadfarooq-dev/) 
+[![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/SaadFarooqDev)
+[![Website Badge](https://img.shields.io/badge/Website-3b5998?style=flat-square&logo=google-chrome&logoColor=white)](https://www.saadfarooq.dev/)
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&center=true&vCenter=true&width=1000&height=100&lines=I'm+Saad+Farooq.;I'm+a+Full+Stack+Web+Developer.;Welcome+to+my+Github+Profile!)](https://git.io/typing-svg)
 
@@ -16,10 +19,6 @@ i am an open-source enthusiast and maintainer. i learned a lot from the open-sou
   <img src="https://profile-counter.glitch.me/SaadFarooq-Dev/count.svg?"  />
 </p>
 
-
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/saadfarooq-dev/) 
-[![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/SaadFarooqDev)
 
 
 ## 🛠️ Languages and Tools:
