@@ -50,7 +50,7 @@ I am an open-source enthusiast and maintainer. i learned a lot from the open-sou
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
 
 
-### Dev Stuffs:
+### 📊 GitHub Stats:
 
 <details>	
   <summary><b>⚡ Github Stats</b></summary>
@@ -65,15 +65,6 @@ I am an open-source enthusiast and maintainer. i learned a lot from the open-sou
   <br />
   <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=SaadFarooq-Dev&hide_border=true" />
 </details>
-
-## 📊 GitHub Stats:
-<p align="center">
-  <img  alt="Saad Farooq's GitHub Stats" src="https://awesome-github-stats.azurewebsites.net/user-stats/SaadFarooq-Dev?cardType=github&theme=radical" />
-</p>
-<p align="center">
-  <img  alt="Saad Faroq's GitHub Stats" src="https://github-readme-streak-stats.herokuapp.com/?user=SaadFarooq-Dev&theme=dark&hide_border=false" />
-</p>
-
 ---
 
 <!-- Link anchors -->
