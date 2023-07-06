@@ -1,7 +1,8 @@
 
-### Hi there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/><br/><br/>
+### Hi there, I'm [Saad Farooq][website] <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/><br/><br/>
+[website]: https://www.saadfarooq.dev/
 
-[![Banner][banner-img]][banner-link]
+[![Banner][banner-img]]
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&center=true&vCenter=true&width=1000&height=100&lines=I'm+Saad+Farooq.;I'm+a+Full+Stack+Web+Developer.;Welcome+to+my+Github+Profile!)](https://git.io/typing-svg)
 
