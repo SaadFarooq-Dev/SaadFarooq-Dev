@@ -1,4 +1,3 @@
-
 ### Hi there, I'm [Saad Farooq][website] <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/><br/><br/>
 [website]: https://www.saadfarooq.dev/
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/saadfarooq-dev/) 
