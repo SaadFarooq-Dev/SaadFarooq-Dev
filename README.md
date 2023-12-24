@@ -41,7 +41,7 @@ I am an open-source enthusiast and maintainer. i learned a lot from the open-sou
   <br />
   <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=SaadFarooq-Dev&hide_border=true" />
 </details>
----
+----
 
 <!-- Link anchors -->
 
