@@ -8,7 +8,7 @@
 
   <img align="right" alt="GIF" src="https://github.com/SaadFarooq-Dev/SaadFarooq-Dev/blob/main/code.gif?raw=true" width="500" height="320" />
   
-I am an open-source enthusiast and maintainer. i learned a lot from the open-source community and i love how collaboration and knowledge sharing happened through open-source
+I am an open-source enthusiast and maintainer. i learned a lot from the open-source community and i love how collaboration and knowledge sharing happened through open-source.
   
 - 💼 any freelance work? do reach, [email](mailto:saadfarooq.info@gmail.com) :)
 - 💬 ask me about anything, i am happy to help.
