@@ -10,7 +10,7 @@
   
 I am an open-source enthusiast and maintainer. i learned a lot from the open-source community and i love how collaboration and knowledge sharing happened through open-source.
   
-- 💼 Any freelance work? do reach, [email](mailto:saadfarooq.info@gmail.com) :)
+- 💼 Any freelance work? do reach, [email](mailto:saadfarooq.info@gmail.com) :).
 - 💬 Ask me about anything, i am happy to help.
 - 💡 Always striving to continue learning new things.
 
